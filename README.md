@@ -1,3 +1,10 @@
+# This is a forked Repository, however there exists colab notebooks to run this projects and try out in Colab 
+
+Inorder to run the training as well as validation of the model on custom dataset, the data has to be preprocessed. 
+A colab file for PreProcessing is also present in the colab notebooks folder. Minimal Documentation is present in the colab files to run the entire model
+
+
+
 # BertSum
 
 **This code is for paper `Fine-tune BERT for Extractive Summarization`**(https://arxiv.org/pdf/1903.10318.pdf)
